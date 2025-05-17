@@ -9,8 +9,8 @@ This repository contains three individual yet insightful Computer Vision applica
 | Project Type           | Description                                                                 | Technologies Used                     |
 |------------------------|-----------------------------------------------------------------------------|----------------------------------------|
 | [🐱🐶 Image Classification](./ImageClassification/README.md) | Binary classification of cats vs dogs using CNN and ResNet50             | TensorFlow, Keras                      |
-| [😷 Object Detection](./ObjectDetection/README.md)          | YOLOv8-based detection of face mask usage (correct/incorrect/none)       | PyTorch, Ultralytics YOLOv8, OpenCV    |
-| [🧠 Image Segmentation](./ImageSegmentation/README.md)      | Brain tumor segmentation on MRI scans using a U-Net architecture         | TensorFlow, OpenCV                     |
+| [😷 Object Detection](./ObjectDetectionTwoClasses/README.md)          | YOLOv8-based detection of face mask usage (correct/incorrect/none)       | PyTorch, Ultralytics YOLOv8, OpenCV    |
+| [🧠 Image Segmentation](./ImageSegmantation/README.md)      | Brain tumor segmentation on MRI scans using a U-Net architecture         | TensorFlow, OpenCV                     |
 
 ---
 
