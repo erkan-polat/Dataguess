@@ -12,8 +12,6 @@ The dataset contains **853 images** with annotations in **PASCAL VOC** format, c
 * `without_mask`
 * `mask_worn_incorrectly`
 
-**Source**: [MakeML - Mask Dataset](https://makeml.app/datasets/mask)
-
 ---
 
 ## 🔧 Project Structure
