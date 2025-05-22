@@ -122,6 +122,5 @@ This project uses the **MakeML Mask Dataset**, which is **Public Domain**.
 
 ## 🙌 Acknowledgements
 
-* Dataset by [MakeML](https://makeml.app/datasets/mask)
 * YOLOv8 by [Ultralytics](https://github.com/ultralytics/ultralytics)
 * Project maintained and implemented in Python with PyTorch and OpenCV
